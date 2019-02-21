@@ -1,5 +1,5 @@
 
-public class Demo001 {
+public class HelloWorld {
     /**
      * 我是文本注释
      * 书写程序的信息介绍
